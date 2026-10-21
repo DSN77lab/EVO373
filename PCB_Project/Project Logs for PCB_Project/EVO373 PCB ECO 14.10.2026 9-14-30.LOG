@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PE9 Pin=XP1-19
-Removed Pin From Net: NetName=GND Pin=XP1-20
-Added Pin To Net: NetName=PE9 Pin=XP1-20
-Added Room: Name=EVO373
