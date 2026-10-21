@@ -1,0 +1,65 @@
+Removed Member From Class: ClassName=EVO373 Member=C?
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=DA? NewDesignator=DA1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD3
+Change Component Designator: OldDesignator=VD? NewDesignator=VD4
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Change Component Designator: OldDesignator=XP? NewDesignator=XP2
+Change Component Designator: OldDesignator=XP? NewDesignator=XP3
+Change Component Designator: OldDesignator=XP? NewDesignator=XP4
+Change Component Designator: OldDesignator=XP? NewDesignator=XP5
+Change Component Designator: OldDesignator=XP? NewDesignator=XP6
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Added Pin To Net: NetName=NetDD1_32 Pin=R1-2
+Added Pin To Net: NetName=NetDD1_33 Pin=R2-2
+Added Pin To Net: NetName=NetDD1_33 Pin=R6-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR9_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=VD1-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=VD2-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=VD4-2
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=EVO373 Member=Component C11 0.01
+Added Member To Class: ClassName=EVO373 Member=Component C12 1.0
+Added Member To Class: ClassName=EVO373 Member=Component R7 510
+Added Member To Class: ClassName=EVO373 Member=Component R8 510
+Added Member To Class: ClassName=EVO373 Member=Component R10 510
+Added Member To Class: ClassName=EVO373 Member=Component VD1 KP-3216EC
+Added Member To Class: ClassName=EVO373 Member=Component VD2 KP-3216YC
+Added Member To Class: ClassName=EVO373 Member=Component VD3 KP-3216SGC
+Added Member To Class: ClassName=EVO373 Member=Component XP1 PLS-20
+Added Member To Class: ClassName=EVO373 Member=Component XP2 PLS-6
+Added Member To Class: ClassName=EVO373 Member=Component XP3 PLS-5
+Added Member To Class: ClassName=EVO373 Member=Component XP4 PLS-3
+Added Member To Class: ClassName=EVO373 Member=Component XP6 PLS-4

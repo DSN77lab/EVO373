@@ -1,0 +1,23 @@
+Added Component: Designator=L1(Epcos B82790)
+Add component (AddParameter): Name = "ChipDip"; Value = "8681452596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "B82790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPCOS"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(PLS-3S)
+Add component (AddParameter): Name = "CatNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "PLS3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XP1-3
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=L1-4
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=L1-1
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=XP1-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_3 Pin=XP1-2
+Added Net: Name=NetL1_3
+Added Member To Class: ClassName=EVO373 Member=Component L1 B82790
+Added Member To Class: ClassName=EVO373 Member=Component XP1 PLS-3S
