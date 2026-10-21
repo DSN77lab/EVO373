@@ -1,0 +1,46 @@
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(2171790001)
+Add component (AddParameter): Name = "ChipDip"; Value = "8008902888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "2171790001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XS?-1
+Added Pin To Net: NetName=GND Pin=XS?-12
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=XS?-2
+Added Pin To Net: NetName=+5 Pin=XS?-11
+Added Net: Name=+5
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=R?-2
+Added Net: Name=NetDD1_32
+Added Pin To Net: NetName=NetDD1_33 Pin=DD1-33
+Added Pin To Net: NetName=NetDD1_33 Pin=R?-2
+Added Pin To Net: NetName=NetDD1_33 Pin=R?-2
+Added Net: Name=NetDD1_33
+Added Pin To Net: NetName=NetDD1_45 Pin=DD1-45
+Added Net: Name=NetDD1_45
+Added Pin To Net: NetName=NetDD1_46 Pin=DD1-46
+Added Net: Name=NetDD1_46
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=XS?-6
+Added Pin To Net: NetName=NetR?_1 Pin=XS?-8
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=EVO373 Member=Component C10 1.0
+Added Member To Class: ClassName=EVO373 Member=Component R3 10K
+Added Member To Class: ClassName=EVO373 Member=Component R? 20
+Added Member To Class: ClassName=EVO373 Member=Component R? 4.7K
+Added Member To Class: ClassName=EVO373 Member=Component R? 20
+Added Member To Class: ClassName=EVO373 Member=Component XS? 2171790001

@@ -1,0 +1,112 @@
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0805)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0805CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0805)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0805CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "C0603CxxxJxGACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "¿∆ﬂ–.673511.004“”"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(QFP-48-7x7)
+Add component (AddParameter): Name = "ChipDip"; Value = "9000237665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "STM32F373C8T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-CHIP0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FullName"; Value = "CR0603-JW-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "ÿ ¿¡.434110.002 “”"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ?(ZQ-3225)
+Add component (AddParameter): Name = "FullName"; Value = "SMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TY"; Value = "{TY}"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=DD?-9
+Added Pin To Net: NetName=3V3 Pin=DD?-17
+Added Pin To Net: NetName=3V3 Pin=DD?-24
+Added Pin To Net: NetName=3V3 Pin=DD?-25
+Added Pin To Net: NetName=3V3 Pin=DD?-48
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=DD?-8
+Added Pin To Net: NetName=GND Pin=DD?-23
+Added Pin To Net: NetName=GND Pin=DD?-47
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=DD?-5
+Added Pin To Net: NetName=NetC?_2 Pin=ZQ?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetDD?_44 Pin=DD?-44
+Added Pin To Net: NetName=NetDD?_44 Pin=R?-2
+Added Pin To Net: NetName=NetDD?_44 Pin=R?-2
+Added Net: Name=NetDD?_44
+Added Class: Name=EVO373
+Added Room: Name=EVO373
